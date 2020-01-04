@@ -34266,7 +34266,7 @@ date,weightclass,fighter,rank
 2019-03-26,Flyweight,Jordan Espinosa,12
 2019-03-26,Flyweight,Eric Shelton,13
 2019-03-26,Flyweight,Kai Kara France,14
-2019-03-26,Flyweight,Casey  Kenney,15
+2019-03-26,Flyweight,Casey Kenney,15
 2019-03-26,Bantamweight,NA,0
 2019-03-26,Bantamweight,Marlon Moraes,1
 2019-03-26,Bantamweight,Raphael Assuncao,2
@@ -36200,7 +36200,7 @@ date,weightclass,fighter,rank
 2019-11-04,Bantamweight,Urijah Faber,12
 2019-11-04,Bantamweight,Song Yadong,13
 2019-11-04,Bantamweight,Marlon Vera,14
-2019-11-04,Bantamweight,Casey  Kenney,15
+2019-11-04,Bantamweight,Casey Kenney,15
 2019-11-04,Featherweight,Max Holloway,0
 2019-11-04,Featherweight,Alexander Volkanovski,1
 2019-11-04,Featherweight,Brian Ortega,2
@@ -36392,7 +36392,7 @@ date,weightclass,fighter,rank
 2019-11-11,Bantamweight,Urijah Faber,12
 2019-11-11,Bantamweight,Song Yadong,13
 2019-11-11,Bantamweight,Marlon Vera,14
-2019-11-11,Bantamweight,Casey  Kenney,15
+2019-11-11,Bantamweight,Casey Kenney,15
 2019-11-11,Featherweight,Max Holloway,0
 2019-11-11,Featherweight,Alexander Volkanovski,1
 2019-11-11,Featherweight,Brian Ortega,2
@@ -36584,7 +36584,7 @@ date,weightclass,fighter,rank
 2019-11-18,Bantamweight,Urijah Faber,12
 2019-11-18,Bantamweight,Song Yadong,13
 2019-11-18,Bantamweight,Marlon Vera,14
-2019-11-18,Bantamweight,Casey  Kenney,15
+2019-11-18,Bantamweight,Casey Kenney,15
 2019-11-18,Featherweight,Max Holloway,0
 2019-11-18,Featherweight,Alexander Volkanovski,1
 2019-11-18,Featherweight,Brian Ortega,2
@@ -36776,7 +36776,7 @@ date,weightclass,fighter,rank
 2019-12-10,Bantamweight,Urijah Faber,12
 2019-12-10,Bantamweight,Song Yadong,12
 2019-12-10,Bantamweight,Marlon Vera,14
-2019-12-10,Bantamweight,Casey  Kenney,15
+2019-12-10,Bantamweight,Casey Kenney,15
 2019-12-10,Featherweight,Max Holloway,0
 2019-12-10,Featherweight,Alexander Volkanovski,1
 2019-12-10,Featherweight,Brian Ortega,2
@@ -36967,7 +36967,7 @@ date,weightclass,fighter,rank
 2019-12-16,Bantamweight,Cody Stamann,11
 2019-12-16,Bantamweight,John Dodson,12
 2019-12-16,Bantamweight,Song Yadong,13
-2019-12-16,Bantamweight,Casey  Kenney,14
+2019-12-16,Bantamweight,Casey Kenney,14
 2019-12-16,Bantamweight,Marlon Vera,15
 2019-12-16,Featherweight,Alexander Volkanovski,0
 2019-12-16,Featherweight,Max Holloway,1
@@ -37114,3 +37114,195 @@ date,weightclass,fighter,rank
 2019-12-16,Women's Bantamweight,Nicco Montano,14
 2019-12-16,Women's Bantamweight,Sijara Eubanks,15
 2019-12-16,Women's Featherweight,Amanda Nunes,0
+2019-12-24,Pound-for-Pound,Jon Jones,1
+2019-12-24,Pound-for-Pound,Khabib Nurmagomedov,2
+2019-12-24,Pound-for-Pound,Henry Cejudo,3
+2019-12-24,Pound-for-Pound,Stipe Miocic,4
+2019-12-24,Pound-for-Pound,Amanda Nunes,5
+2019-12-24,Pound-for-Pound,Daniel Cormier,6
+2019-12-24,Pound-for-Pound,Israel Adesanya,7
+2019-12-24,Pound-for-Pound,Kamaru Usman,8
+2019-12-24,Pound-for-Pound,Alexander Volkanovski,9
+2019-12-24,Pound-for-Pound,Tony Ferguson,10
+2019-12-24,Pound-for-Pound,Valentina Shevchenko,11
+2019-12-24,Pound-for-Pound,Max Holloway,12
+2019-12-24,Pound-for-Pound,Conor McGregor,13
+2019-12-24,Pound-for-Pound,Tyron Woodley,14
+2019-12-24,Pound-for-Pound,Dustin Poirier,15
+2019-12-24,Flyweight,Henry Cejudo,0
+2019-12-24,Flyweight,Joseph Benavidez,1
+2019-12-24,Flyweight,Jussier Formiga,2
+2019-12-24,Flyweight,Deiveson Figueiredo,3
+2019-12-24,Flyweight,Alexandre Pantoja,4
+2019-12-24,Flyweight,Brandon Moreno,5
+2019-12-24,Flyweight,Rogerio Bontorin,6
+2019-12-24,Flyweight,Tim Elliott,7
+2019-12-24,Flyweight,Kai Kara France,8
+2019-12-24,Flyweight,Matt Schnell,9
+2019-12-24,Flyweight,Jordan Espinosa,10
+2019-12-24,Flyweight,Alex Perez,11
+2019-12-24,Flyweight,Askar Askarov,12
+2019-12-24,Flyweight,Mark De La Rosa,13
+2019-12-24,Flyweight,Raulian Paiva,14
+2019-12-24,Flyweight,Ryan Benoit,15
+2019-12-24,Bantamweight,Henry Cejudo,0
+2019-12-24,Bantamweight,Marlon Moraes,1
+2019-12-24,Bantamweight,Aljamain Sterling,2
+2019-12-24,Bantamweight,Petr Yan,3
+2019-12-24,Bantamweight,Cory Sandhagen,4
+2019-12-24,Bantamweight,Raphael Assuncao,5
+2019-12-24,Bantamweight,Pedro Munhoz,6
+2019-12-24,Bantamweight,Jimmie Rivera,7
+2019-12-24,Bantamweight,Jose Aldo,8
+2019-12-24,Bantamweight,Cody Garbrandt,9
+2019-12-24,Bantamweight,Rob Font,10
+2019-12-24,Bantamweight,Cody Stamann,11
+2019-12-24,Bantamweight,John Dodson,12
+2019-12-24,Bantamweight,Song Yadong,13
+2019-12-24,Bantamweight,Marlon Vera,14
+2019-12-24,Bantamweight,Casey Kenney,15
+2019-12-24,Featherweight,Alexander Volkanovski,0
+2019-12-24,Featherweight,Max Holloway,1
+2019-12-24,Featherweight,Brian Ortega,2
+2019-12-24,Featherweight,Zabit Magomedsharipov,3
+2019-12-24,Featherweight,Chan Sung Jung,4
+2019-12-24,Featherweight,Yair Rodriguez,5
+2019-12-24,Featherweight,Frankie Edgar,6
+2019-12-24,Featherweight,Renato Moicano,7
+2019-12-24,Featherweight,Jeremy Stephens,8
+2019-12-24,Featherweight,Jose Aldo,9
+2019-12-24,Featherweight,Josh Emmett,10
+2019-12-24,Featherweight,Calvin Kattar,11
+2019-12-24,Featherweight,Shane Burgos,12
+2019-12-24,Featherweight,Mirsad Bektic,13
+2019-12-24,Featherweight,Ryan Hall,14
+2019-12-24,Featherweight,Arnold Allen,15
+2019-12-24,Lightweight,Khabib Nurmagomedov,0
+2019-12-24,Lightweight,Tony Ferguson,1
+2019-12-24,Lightweight,Dustin Poirier,2
+2019-12-24,Lightweight,Justin Gaethje,3
+2019-12-24,Lightweight,Conor McGregor,4
+2019-12-24,Lightweight,Donald Cerrone,5
+2019-12-24,Lightweight,Paul Felder,6
+2019-12-24,Lightweight,Dan Hooker,7
+2019-12-24,Lightweight,Kevin Lee,8
+2019-12-24,Lightweight,Al Iaquinta,9
+2019-12-24,Lightweight,Edson Barboza,10
+2019-12-24,Lightweight,Anthony Pettis,11
+2019-12-24,Lightweight,Gregor Gillespie,12
+2019-12-24,Lightweight,Charles Oliveira,13
+2019-12-24,Lightweight,Alexander Hernandez,14
+2019-12-24,Lightweight,Islam Makhachev,15
+2019-12-24,Welterweight,Kamaru Usman,0
+2019-12-24,Welterweight,Tyron Woodley,1
+2019-12-24,Welterweight,Colby Covington,2
+2019-12-24,Welterweight,Jorge Masvidal,3
+2019-12-24,Welterweight,Leon Edwards,4
+2019-12-24,Welterweight,Rafael Dos Anjos,5
+2019-12-24,Welterweight,Demian Maia,6
+2019-12-24,Welterweight,Stephen Thompson,7
+2019-12-24,Welterweight,Nate Diaz,8
+2019-12-24,Welterweight,Anthony Pettis,9
+2019-12-24,Welterweight,Robbie Lawler,10
+2019-12-24,Welterweight,Geoff Neal,11
+2019-12-24,Welterweight,Vicente Luque,12
+2019-12-24,Welterweight,Gilbert Burns,13
+2019-12-24,Welterweight,Neil Magny,14
+2019-12-24,Welterweight,Li Jingliang,15
+2019-12-24,Middleweight,Israel Adesanya,0
+2019-12-24,Middleweight,Robert Whittaker,1
+2019-12-24,Middleweight,Paulo Costa,2
+2019-12-24,Middleweight,Yoel Romero,3
+2019-12-24,Middleweight,Jared Cannonier,4
+2019-12-24,Middleweight,Darren Till,5
+2019-12-24,Middleweight,Jack Hermansson,6
+2019-12-24,Middleweight,Kelvin Gastelum,7
+2019-12-24,Middleweight,Derek Brunson,8
+2019-12-24,Middleweight,Edmen Shahbazyan,9
+2019-12-24,Middleweight,Uriah Hall,10
+2019-12-24,Middleweight,Brad Tavares,11
+2019-12-24,Middleweight,Ian Heinisch,12
+2019-12-24,Middleweight,Omari Akhmedov,13
+2019-12-24,Middleweight,Antonio Carlos Junior,14
+2019-12-24,Middleweight,Anderson Silva,15
+2019-12-24,Light Heavyweight,Jon Jones,0
+2019-12-24,Light Heavyweight,Thiago Santos,1
+2019-12-24,Light Heavyweight,Daniel Cormier,2
+2019-12-24,Light Heavyweight,Anthony Smith,3
+2019-12-24,Light Heavyweight,Dominick Reyes,4
+2019-12-24,Light Heavyweight,Corey Anderson,5
+2019-12-24,Light Heavyweight,Jan Blachowicz,6
+2019-12-24,Light Heavyweight,Alexander Gustafsson,7
+2019-12-24,Light Heavyweight,Volkan Oezdemir,8
+2019-12-24,Light Heavyweight,Glover Teixeira,9
+2019-12-24,Light Heavyweight,Aleksandar Rakic,10
+2019-12-24,Light Heavyweight,Johnny Walker,11
+2019-12-24,Light Heavyweight,Ilir Latifi,12
+2019-12-24,Light Heavyweight,Misha Cirkunov,13
+2019-12-24,Light Heavyweight,Nikita Krylov,14
+2019-12-24,Light Heavyweight,Ronaldo Souza,15
+2019-12-24,Heavyweight,Stipe Miocic,0
+2019-12-24,Heavyweight,Daniel Cormier,1
+2019-12-24,Heavyweight,Francis Ngannou,2
+2019-12-24,Heavyweight,Curtis Blaydes,3
+2019-12-24,Heavyweight,Junior Dos Santos,4
+2019-12-24,Heavyweight,Jairzinho Rozenstruik,5
+2019-12-24,Heavyweight,Derrick Lewis,5
+2019-12-24,Heavyweight,Alexander Volkov,7
+2019-12-24,Heavyweight,Alistair Overeem,8
+2019-12-24,Heavyweight,Walt Harris,9
+2019-12-24,Heavyweight,Shamil Abdurakhimov,10
+2019-12-24,Heavyweight,Blagoy Ivanov,11
+2019-12-24,Heavyweight,Aleksei Oleinik,12
+2019-12-24,Heavyweight,Augusto Sakai,13
+2019-12-24,Heavyweight,Sergei Pavlovich,14
+2019-12-24,Heavyweight,Ciryl Gane,15
+2019-12-24,Women's Strawweight,Zhang Weili,0
+2019-12-24,Women's Strawweight,Jessica Andrade,1
+2019-12-24,Women's Strawweight,Rose Namajunas,2
+2019-12-24,Women's Strawweight,Tatiana Suarez,3
+2019-12-24,Women's Strawweight,Joanna Jedrzejczyk,4
+2019-12-24,Women's Strawweight,Nina Ansaroff,5
+2019-12-24,Women's Strawweight,Claudia Gadelha,6
+2019-12-24,Women's Strawweight,Carla Esparza,7
+2019-12-24,Women's Strawweight,Michelle Waterson,8
+2019-12-24,Women's Strawweight,Marina Rodriguez,9
+2019-12-24,Women's Strawweight,Cynthia Calvillo,10
+2019-12-24,Women's Strawweight,Alexa Grasso,11
+2019-12-24,Women's Strawweight,Felice Herrig,12
+2019-12-24,Women's Strawweight,Tecia Torres,13
+2019-12-24,Women's Strawweight,Karolina Kowalkiewicz,14
+2019-12-24,Women's Strawweight,Amanda Ribas,15
+2019-12-24,Women's Flyweight,Valentina Shevchenko,0
+2019-12-24,Women's Flyweight,Katlyn Chookagian,1
+2019-12-24,Women's Flyweight,Jessica Eye,2
+2019-12-24,Women's Flyweight,Joanne Calderwood,3
+2019-12-24,Women's Flyweight,Jennifer Maia,4
+2019-12-24,Women's Flyweight,Viviane Araujo,5
+2019-12-24,Women's Flyweight,Lauren Murphy,6
+2019-12-24,Women's Flyweight,Roxanne Modafferi,7
+2019-12-24,Women's Flyweight,Andrea Lee,8
+2019-12-24,Women's Flyweight,Maycee Barber,9
+2019-12-24,Women's Flyweight,Alexis Davis,10
+2019-12-24,Women's Flyweight,Montana De La Rosa,11
+2019-12-24,Women's Flyweight,Antonina Shevchenko,12
+2019-12-24,Women's Flyweight,Mara Romero Borella,13
+2019-12-24,Women's Flyweight,Paige VanZant,14
+2019-12-24,Women's Flyweight,Ji Yeon Kim,15
+2019-12-24,Women's Bantamweight,Amanda Nunes,0
+2019-12-24,Women's Bantamweight,Germaine de Randamie,1
+2019-12-24,Women's Bantamweight,Aspen Ladd,2
+2019-12-24,Women's Bantamweight,Holly Holm,3
+2019-12-24,Women's Bantamweight,Julianna Peña,4
+2019-12-24,Women's Bantamweight,Raquel Pennington,5
+2019-12-24,Women's Bantamweight,Irene Aldana,6
+2019-12-24,Women's Bantamweight,Ketlen Vieira,7
+2019-12-24,Women's Bantamweight,Yana Kunitskaya,8
+2019-12-24,Women's Bantamweight,Marion Reneau,9
+2019-12-24,Women's Bantamweight,Sara McMann,10
+2019-12-24,Women's Bantamweight,Lina Lansberg,11
+2019-12-24,Women's Bantamweight,Macy Chiasson,12
+2019-12-24,Women's Bantamweight,Bethe Correia,13
+2019-12-24,Women's Bantamweight,Nicco Montano,14
+2019-12-24,Women's Bantamweight,Sijara Eubanks,15
+2019-12-24,Women's Featherweight,Amanda Nunes,0
