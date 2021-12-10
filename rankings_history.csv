@@ -60594,34 +60594,226 @@ date,weightclass,fighter,rank
 2021-11-23,Women's Flyweight,Manon Fiorot,14
 2021-11-23,Women's Flyweight,Casey O'Neill,15
 2021-11-23,Women's Bantamweight,Amanda Nunes,0
-2021-11-23,Women's Bantamweight,Germaine de Randamie,1
 2021-11-23,Women's Bantamweight,Holly Holm,1
-2021-11-23,Women's Bantamweight,Holly Holm,2
 2021-11-23,Women's Bantamweight,Irene Aldana,2
-2021-11-23,Women's Bantamweight,Irene Aldana,3
 2021-11-23,Women's Bantamweight,Julianna Peña,3
-2021-11-23,Women's Bantamweight,Julianna Peña,4
 2021-11-23,Women's Bantamweight,Aspen Ladd,4
-2021-11-23,Women's Bantamweight,Aspen Ladd,5
 2021-11-23,Women's Bantamweight,Ketlen Vieira,5
-2021-11-23,Women's Bantamweight,Ketlen Vieira,6
 2021-11-23,Women's Bantamweight,Yana Kunitskaya,6
-2021-11-23,Women's Bantamweight,Yana Kunitskaya,7
 2021-11-23,Women's Bantamweight,Miesha Tate,7
-2021-11-23,Women's Bantamweight,Miesha Tate,8
 2021-11-23,Women's Bantamweight,Raquel Pennington,8
-2021-11-23,Women's Bantamweight,Raquel Pennington,9
 2021-11-23,Women's Bantamweight,Sara McMann,9
-2021-11-23,Women's Bantamweight,Sara McMann,10
 2021-11-23,Women's Bantamweight,Macy Chiasson,10
-2021-11-23,Women's Bantamweight,Macy Chiasson,11
 2021-11-23,Women's Bantamweight,Lina Lansberg,11
-2021-11-23,Women's Bantamweight,Lina Lansberg,12
 2021-11-23,Women's Bantamweight,Pannie Kianzad,12
-2021-11-23,Women's Bantamweight,Pannie Kianzad,13
 2021-11-23,Women's Bantamweight,Karol Rosa,13
-2021-11-23,Women's Bantamweight,Karol Rosa,14
 2021-11-23,Women's Bantamweight,Julia Avila,14
-2021-11-23,Women's Bantamweight,Julia Avila,15
 2021-11-23,Women's Bantamweight,Norma Dumont,15
 2021-11-23,Women's Featherweight,Amanda Nunes,0
+2021-12-06,Pound-for-Pound,Kamaru Usman,1
+2021-12-06,Pound-for-Pound,Amanda Nunes,1
+2021-12-06,Pound-for-Pound,Alexander Volkanovski,2
+2021-12-06,Pound-for-Pound,Valentina Shevchenko,2
+2021-12-06,Pound-for-Pound,Israel Adesanya,3
+2021-12-06,Pound-for-Pound,Rose Namajunas,3
+2021-12-06,Pound-for-Pound,Francis Ngannou,4
+2021-12-06,Pound-for-Pound,Zhang Weili,4
+2021-12-06,Pound-for-Pound,Dustin Poirier,5
+2021-12-06,Pound-for-Pound,Jessica Andrade,5
+2021-12-06,Pound-for-Pound,Jon Jones,6
+2021-12-06,Pound-for-Pound,Holly Holm,6
+2021-12-06,Pound-for-Pound,Max Holloway,7
+2021-12-06,Pound-for-Pound,Carla Esparza,7
+2021-12-06,Pound-for-Pound,Charles Oliveira,8
+2021-12-06,Pound-for-Pound,Katlyn Chookagian,8
+2021-12-06,Pound-for-Pound,Stipe Miocic,9
+2021-12-06,Pound-for-Pound,Marina Rodriguez,9
+2021-12-06,Pound-for-Pound,Brandon Moreno,10
+2021-12-06,Pound-for-Pound,Yan Xiaonan,10
+2021-12-06,Pound-for-Pound,Petr Yan,11
+2021-12-06,Pound-for-Pound,Julianna Peña,11
+2021-12-06,Pound-for-Pound,Glover Teixeira,12
+2021-12-06,Pound-for-Pound,Irene Aldana,12
+2021-12-06,Pound-for-Pound,Robert Whittaker,13
+2021-12-06,Pound-for-Pound,Mackenzie Dern,13
+2021-12-06,Pound-for-Pound,Jan Blachowicz,14
+2021-12-06,Pound-for-Pound,Lauren Murphy,14
+2021-12-06,Pound-for-Pound,Ciryl Gane,15
+2021-12-06,Pound-for-Pound,Aspen Ladd,15
+2021-12-06,Flyweight,Brandon Moreno,0
+2021-12-06,Flyweight,Deiveson Figueiredo,1
+2021-12-06,Flyweight,Askar Askarov,2
+2021-12-06,Flyweight,Alexandre Pantoja,3
+2021-12-06,Flyweight,Alex Perez,4
+2021-12-06,Flyweight,Brandon Royval,5
+2021-12-06,Flyweight,Kai Kara France,6
+2021-12-06,Flyweight,Rogerio Bontorin,7
+2021-12-06,Flyweight,Matheus Nicolau,8
+2021-12-06,Flyweight,Matt Schnell,9
+2021-12-06,Flyweight,David Dvorak,10
+2021-12-06,Flyweight,Tim Elliott,11
+2021-12-06,Flyweight,Amir Albazi,12
+2021-12-06,Flyweight,Sumudaerji,13
+2021-12-06,Flyweight,Manel Kape,14
+2021-12-06,Flyweight,Tagir Ulanbekov,15
+2021-12-06,Bantamweight,Aljamain Sterling,0
+2021-12-06,Bantamweight,Petr Yan,1
+2021-12-06,Bantamweight,TJ Dillashaw,2
+2021-12-06,Bantamweight,José Aldo,3
+2021-12-06,Bantamweight,Cory Sandhagen,4
+2021-12-06,Bantamweight,Rob Font,5
+2021-12-06,Bantamweight,Merab Dvalishvili,6
+2021-12-06,Bantamweight,Cody Garbrandt,7
+2021-12-06,Bantamweight,Pedro Munhoz,8
+2021-12-06,Bantamweight,Dominick Cruz,9
+2021-12-06,Bantamweight,Marlon Moraes,10
+2021-12-06,Bantamweight,Marlon Vera,11
+2021-12-06,Bantamweight,Raphael Assuncao,12
+2021-12-06,Bantamweight,Frankie Edgar,13
+2021-12-06,Bantamweight,Song Yadong,14
+2021-12-06,Bantamweight,Cody Stamann,15
+2021-12-06,Featherweight,Alexander Volkanovski,0
+2021-12-06,Featherweight,Max Holloway,1
+2021-12-06,Featherweight,Brian Ortega,2
+2021-12-06,Featherweight,Yair Rodriguez,3
+2021-12-06,Featherweight,Chan Sung Jung,4
+2021-12-06,Featherweight,Calvin Kattar,5
+2021-12-06,Featherweight,Arnold Allen,6
+2021-12-06,Featherweight,Giga Chikadze,7
+2021-12-06,Featherweight,Josh Emmett,7
+2021-12-06,Featherweight,Dan Ige,9
+2021-12-06,Featherweight,Edson Barboza,10
+2021-12-06,Featherweight,Bryce Mitchell,11
+2021-12-06,Featherweight,Sodiq Yusuff,12
+2021-12-06,Featherweight,Movsar Evloev,13
+2021-12-06,Featherweight,Shane Burgos,14
+2021-12-06,Featherweight,Alex Caceres,15
+2021-12-06,Lightweight,Charles Oliveira,0
+2021-12-06,Lightweight,Dustin Poirier,1
+2021-12-06,Lightweight,Justin Gaethje,2
+2021-12-06,Lightweight,Beneil Dariush,3
+2021-12-06,Lightweight,Islam Makhachev,4
+2021-12-06,Lightweight,Michael Chandler,5
+2021-12-06,Lightweight,Rafael Dos Anjos,6
+2021-12-06,Lightweight,Tony Ferguson,7
+2021-12-06,Lightweight,Dan Hooker,8
+2021-12-06,Lightweight,Conor McGregor,9
+2021-12-06,Lightweight,Gregor Gillespie,10
+2021-12-06,Lightweight,Rafael Fiziev,11
+2021-12-06,Lightweight,Diego Ferreira,12
+2021-12-06,Lightweight,Arman Tsarukyan,13
+2021-12-06,Lightweight,Brad Riddell,14
+2021-12-06,Lightweight,Joel Alvarez,15
+2021-12-06,Welterweight,Kamaru Usman,0
+2021-12-06,Welterweight,Colby Covington,1
+2021-12-06,Welterweight,Gilbert Burns,2
+2021-12-06,Welterweight,Leon Edwards,3
+2021-12-06,Welterweight,Vicente Luque,4
+2021-12-06,Welterweight,Stephen Thompson,5
+2021-12-06,Welterweight,Jorge Masvidal,6
+2021-12-06,Welterweight,Neil Magny,7
+2021-12-06,Welterweight,Sean Brady,8
+2021-12-06,Welterweight,Michael Chiesa,9
+2021-12-06,Welterweight,Belal Muhammad,10
+2021-12-06,Welterweight,Khamzat Chimaev,11
+2021-12-06,Welterweight,Geoff Neal,12
+2021-12-06,Welterweight,Li Jingliang,13
+2021-12-06,Welterweight,Santiago Ponzinibbio,14
+2021-12-06,Welterweight,Muslim Salikhov,15
+2021-12-06,Middleweight,Israel Adesanya,0
+2021-12-06,Middleweight,Robert Whittaker,1
+2021-12-06,Middleweight,Marvin Vettori,2
+2021-12-06,Middleweight,Jared Cannonier,3
+2021-12-06,Middleweight,Derek Brunson,4
+2021-12-06,Middleweight,Paulo Costa,5
+2021-12-06,Middleweight,Jack Hermansson,6
+2021-12-06,Middleweight,Sean Strickland,7
+2021-12-06,Middleweight,Darren Till,8
+2021-12-06,Middleweight,Uriah Hall,9
+2021-12-06,Middleweight,Kelvin Gastelum,10
+2021-12-06,Middleweight,Brad Tavares,11
+2021-12-06,Middleweight,Nassourdine Imavov,12
+2021-12-06,Middleweight,Chris Weidman,13
+2021-12-06,Middleweight,Kevin Holland,14
+2021-12-06,Middleweight,Edmen Shahbazyan,15
+2021-12-06,Light Heavyweight,Glover Teixeira,0
+2021-12-06,Light Heavyweight,Jan Blachowicz,1
+2021-12-06,Light Heavyweight,Jiri Prochazka,2
+2021-12-06,Light Heavyweight,Aleksandar Rakic,3
+2021-12-06,Light Heavyweight,Anthony Smith,4
+2021-12-06,Light Heavyweight,Thiago Santos,5
+2021-12-06,Light Heavyweight,Magomed Ankalaev,6
+2021-12-06,Light Heavyweight,Dominick Reyes,7
+2021-12-06,Light Heavyweight,Volkan Oezdemir,8
+2021-12-06,Light Heavyweight,Nikita Krylov,9
+2021-12-06,Light Heavyweight,Johnny Walker,10
+2021-12-06,Light Heavyweight,Paul Craig,11
+2021-12-06,Light Heavyweight,Jamahal Hill,12
+2021-12-06,Light Heavyweight,Ryan Spann,13
+2021-12-06,Light Heavyweight,Jimmy Crute,14
+2021-12-06,Light Heavyweight,Ion Cutelaba,15
+2021-12-06,Heavyweight,Francis Ngannou,0
+2021-12-06,Heavyweight,Ciryl Gane,1
+2021-12-06,Heavyweight,Stipe Miocic,2
+2021-12-06,Heavyweight,Derrick Lewis,3
+2021-12-06,Heavyweight,Curtis Blaydes,4
+2021-12-06,Heavyweight,Alexander Volkov,5
+2021-12-06,Heavyweight,Jairzinho Rozenstruik,6
+2021-12-06,Heavyweight,Chris Daukaus,7
+2021-12-06,Heavyweight,Shamil Abdurakhimov,8
+2021-12-06,Heavyweight,Marcin Tybura,9
+2021-12-06,Heavyweight,Tom Aspinall,10
+2021-12-06,Heavyweight,Augusto Sakai,11
+2021-12-06,Heavyweight,Blagoy Ivanov,12
+2021-12-06,Heavyweight,Walt Harris,13
+2021-12-06,Heavyweight,Sergei Pavlovich,14
+2021-12-06,Heavyweight,Serghei Spivac,15
+2021-12-06,Women's Strawweight,Rose Namajunas,0
+2021-12-06,Women's Strawweight,Zhang Weili,1
+2021-12-06,Women's Strawweight,Carla Esparza,2
+2021-12-06,Women's Strawweight,Marina Rodriguez,3
+2021-12-06,Women's Strawweight,Yan Xiaonan,4
+2021-12-06,Women's Strawweight,Mackenzie Dern,5
+2021-12-06,Women's Strawweight,Nina Nunes,6
+2021-12-06,Women's Strawweight,Claudia Gadelha,7
+2021-12-06,Women's Strawweight,Tecia Torres,8
+2021-12-06,Women's Strawweight,Michelle Waterson,9
+2021-12-06,Women's Strawweight,Amanda Ribas,10
+2021-12-06,Women's Strawweight,Amanda Lemos,11
+2021-12-06,Women's Strawweight,Angela Hill,12
+2021-12-06,Women's Strawweight,Virna Jandiroba,13
+2021-12-06,Women's Strawweight,Jessica Penne,14
+2021-12-06,Women's Strawweight,Brianna Van Buren,15
+2021-12-06,Women's Flyweight,Valentina Shevchenko,0
+2021-12-06,Women's Flyweight,Jessica Andrade,1
+2021-12-06,Women's Flyweight,Katlyn Chookagian,2
+2021-12-06,Women's Flyweight,Lauren Murphy,3
+2021-12-06,Women's Flyweight,Jennifer Maia,4
+2021-12-06,Women's Flyweight,Taila Santos,5
+2021-12-06,Women's Flyweight,Joanne Wood,6
+2021-12-06,Women's Flyweight,Viviane Araujo,7
+2021-12-06,Women's Flyweight,Andrea Lee,8
+2021-12-06,Women's Flyweight,Jessica Eye,9
+2021-12-06,Women's Flyweight,Cynthia Calvillo,10
+2021-12-06,Women's Flyweight,Alexa Grasso,11
+2021-12-06,Women's Flyweight,Roxanne Modafferi,12
+2021-12-06,Women's Flyweight,Maycee Barber,13
+2021-12-06,Women's Flyweight,Manon Fiorot,14
+2021-12-06,Women's Flyweight,Casey O'Neill,15
+2021-12-06,Women's Bantamweight,Amanda Nunes,0
+2021-12-06,Women's Bantamweight,Holly Holm,1
+2021-12-06,Women's Bantamweight,Irene Aldana,2
+2021-12-06,Women's Bantamweight,Julianna Peña,3
+2021-12-06,Women's Bantamweight,Aspen Ladd,4
+2021-12-06,Women's Bantamweight,Ketlen Vieira,5
+2021-12-06,Women's Bantamweight,Yana Kunitskaya,6
+2021-12-06,Women's Bantamweight,Miesha Tate,7
+2021-12-06,Women's Bantamweight,Raquel Pennington,8
+2021-12-06,Women's Bantamweight,Sara McMann,9
+2021-12-06,Women's Bantamweight,Macy Chiasson,10
+2021-12-06,Women's Bantamweight,Lina Lansberg,11
+2021-12-06,Women's Bantamweight,Karol Rosa,12
+2021-12-06,Women's Bantamweight,Pannie Kianzad,13
+2021-12-06,Women's Bantamweight,Julia Avila,14
+2021-12-06,Women's Bantamweight,Norma Dumont,15
+2021-12-06,Women's Featherweight,Amanda Nunes,0
