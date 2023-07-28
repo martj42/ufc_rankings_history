@@ -74353,6 +74353,7 @@ date,weightclass,fighter,rank
 2023-07-25,Middleweight,Kelvin Gastelum,12
 2023-07-25,Middleweight,Nassourdine Imavov,13
 2023-07-25,Middleweight,Paul Craig,14
+2023-07-25,Middleweight,Andre Muniz,14
 2023-07-25,Middleweight,Chris Curtis,15
 2023-07-25,Light Heavyweight,Jamahal Hill,0
 2023-07-25,Light Heavyweight,Jiří Procházka,1
@@ -74361,14 +74362,17 @@ date,weightclass,fighter,rank
 2023-07-25,Light Heavyweight,Aleksandar Rakić,4
 2023-07-25,Light Heavyweight,Nikita Krylov,5
 2023-07-25,Light Heavyweight,Johnny Walker,5
+2023-07-25,Light Heavyweight,Johnny Walker,6
 2023-07-25,Light Heavyweight,Anthony Smith,7
 2023-07-25,Light Heavyweight,Volkan Oezdemir,8
 2023-07-25,Light Heavyweight,Ryan Spann,9
+2023-07-25,Light Heavyweight,Paul Craig,9
 2023-07-25,Light Heavyweight,Azamat Murzakanov,10
 2023-07-25,Light Heavyweight,Khalil Rountree Jr.,11
 2023-07-25,Light Heavyweight,Dominick Reyes,12
 2023-07-25,Light Heavyweight,Alonzo Menifield,13
 2023-07-25,Light Heavyweight,Dustin Jacoby,14
+2023-07-25,Light Heavyweight,Alonzo Menifield,14
 2023-07-25,Light Heavyweight,Kennedy Nzechukwu,15
 2023-07-25,Heavyweight,Jon Jones,0
 2023-07-25,Heavyweight,Sergei Pavlovich,1
@@ -74376,12 +74380,15 @@ date,weightclass,fighter,rank
 2023-07-25,Heavyweight,Stipe Miocic,3
 2023-07-25,Heavyweight,Tom Aspinall,4
 2023-07-25,Heavyweight,Curtis Blaydes,5
+2023-07-25,Heavyweight,Tom Aspinall,5
 2023-07-25,Heavyweight,Tai Tuivasa,6
 2023-07-25,Heavyweight,Alexander Volkov,7
 2023-07-25,Heavyweight,Serghei Spivac,8
 2023-07-25,Heavyweight,Jailton Almeida,9
 2023-07-25,Heavyweight,Derrick Lewis,10
+2023-07-25,Heavyweight,Marcin Tybura,10
 2023-07-25,Heavyweight,Marcin Tybura,11
+2023-07-25,Heavyweight,Derrick Lewis,11
 2023-07-25,Heavyweight,Jairzinho Rozenstruik,12
 2023-07-25,Heavyweight,Alexandr Romanov,13
 2023-07-25,Heavyweight,Chris Daukaus,14
@@ -74407,6 +74414,7 @@ date,weightclass,fighter,rank
 2023-07-25,Women's Flyweight,Manon Fiorot,2
 2023-07-25,Women's Flyweight,Erin Blanchfield,3
 2023-07-25,Women's Flyweight,Taila Santos,3
+2023-07-25,Women's Flyweight,Taila Santos,4
 2023-07-25,Women's Flyweight,Jessica Andrade,5
 2023-07-25,Women's Flyweight,Katlyn Chookagian,6
 2023-07-25,Women's Flyweight,Lauren Murphy,7
@@ -74424,10 +74432,12 @@ date,weightclass,fighter,rank
 2023-07-25,Women's Bantamweight,Mayra Bueno Silva,3
 2023-07-25,Women's Bantamweight,Ketlen Vieira,4
 2023-07-25,Women's Bantamweight,Irene Aldana,5
+2023-07-25,Women's Bantamweight,Holly Holm,5
 2023-07-25,Women's Bantamweight,Holly Holm,6
 2023-07-25,Women's Bantamweight,Pannie Kianzad,7
 2023-07-25,Women's Bantamweight,Yana Santos,8
 2023-07-25,Women's Bantamweight,Karol Rosa,9
+2023-07-25,Women's Bantamweight,Macy Chiasson,9
 2023-07-25,Women's Bantamweight,Macy Chiasson,10
 2023-07-25,Women's Bantamweight,Norma Dumont,11
 2023-07-25,Women's Bantamweight,Miesha Tate,12
